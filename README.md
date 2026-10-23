@@ -1,7 +1,6 @@
 Aluno: Eric Matheus da Silva Temoteo
 Matrícula: 2022010143
 
-
 API RESTful - Sistema de Gestão de Eventos
 
 Aplicação backend para gestão de eventos e inscrições desenvolvida para a avaliação da AP1 (Unicatólica - Quixadá).
